@@ -1,0 +1,17 @@
+/* PRODUCTS_DETAL*/
+.huan img{
+    width: 626px;
+    margin: 10px 135px 8px 151px;
+    border-radius:136px;
+    height: 190px;
+    text-align: center;
+    box-shadow: 1px 1px 5px 2px #1666f7;
+    background-color: bisque;
+}
+.huan2{
+    background-color:white;
+    width:846px;
+    min-height:580px;
+    margin-left: 42px;
+}
+/* END */
